@@ -14,7 +14,6 @@ Aplikasi monitoring kualitas udara berbasis IoT menggunakan **Flutter** dan **ES
 - [Instalasi](#-instalasi)
 - [Konfigurasi](#-konfigurasi)
 - [Penggunaan](#-penggunaan)
-- [Screenshot](#-screenshot)
 - [Kontributor](#-kontributor)
 
 ## ✨ Fitur
