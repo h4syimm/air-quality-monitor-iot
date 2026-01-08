@@ -159,10 +159,6 @@ Aplikasi menggunakan topic MQTT berikut:
 3. **Tekan "Test Koneksi & Masuk"** - Untuk masuk ke dashboard
 4. **Pantau Data Real-time** - Lihat data sensor dan prediksi AI
 
-## 📸 Screenshot
-
-*Screenshot akan ditambahkan*
-
 ## 🛠️ Dependencies
 
 ### Flutter
@@ -184,12 +180,11 @@ dependencies:
 
 ## 👥 Kontributor
 
-- **Nama Anda** - *Pengembang Utama*
+- **Alif Rahman Maulana**
+- **Hadyan Noor Hasyim**
+- **Intan Nurul Faizia**
+- **Yanuar Alvin Rifkyarthara**
 
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan Tugas Besar mata kuliah **Internet of Things (IoT)** Semester 4.
-
----
-
-⭐ Jangan lupa untuk memberikan bintang jika proyek ini membantu!
